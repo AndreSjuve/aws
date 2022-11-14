@@ -1,11 +1,36 @@
 ---
-title: "aws.github.io"
+title: "André Wattø Sjuve"
+subtitle: Assistant professor
+image: image/headshot.jpg
+about: 
+  template: trestles
+  image-shape: rounded
+  image-width: 15em
+  links:
+    - icon: journals
+      text: SSRN
+      href: https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=4172820
+    - icon: linkedin
+      text: LinkedIn
+      href: https://no.linkedin.com/in/andréwattøsjuve/
+    - icon: github
+      text: GitHub
+      href: https://github.com/AndreSjuve/
+    - icon: envelope
+      text: Email
+      href: mailto:andre.sjuve@nhh.no
 ---
 
-This is a Quarto website.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Welcome! I am currently an assistant professor at the department of [Business and Management Science](https://www.nhh.no/en/departments/business-and-management-science/) at the Norwegian School of Economics (NHH), in Bergen, Norway. I am interested in asset management and household finance.
 
-```{r}
-1 + 1
-```
+### Education
+`r fontawesome::fa("graduation-cap", fill = "#6610f2", a11y = "sem")` Ph.D in Finance \| 2022 \| <p class="custom-subtitle2">Norwegian School of Economics (NHH)</p>
+
+<div class="topbr">
+
+<p class="custom-subtitle">
+
+`r fontawesome::fa("graduation-cap", fill = "#6610f2", a11y = "sem")` MSc Financial Economics with Research Distinction \| 2018 \| NHH
+
+`r fontawesome::fa("graduation-cap", fill = "#6610f2", a11y = "sem")` BSc Economics and Administration \| 2016 \| NHH

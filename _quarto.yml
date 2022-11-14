@@ -3,16 +3,27 @@ project:
   output-dir: docs
 
 website:
-  title: "aws.github.io"
+  title: "André Wattø Sjuve"
   navbar:
+    background: "#124559"
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - research.qmd
+  page-footer: 
+    background: "#124559"
+    left: "Copyright 2022, André Wattø Sjuve"
+    right: 
+      - icon: github
+        href: https://github.com/AndreSjuve/
+      - icon: envelope
+        href: mailto:andre.sjuve@nhh.no
 
 format:
   html:
-    theme: cosmo
+    theme: 
+      dark:  superhero
+      light: lux
     css: styles.css
     toc: true
 
