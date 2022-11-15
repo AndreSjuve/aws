@@ -1,10 +1,7 @@
 /*-- scss:defaults --*/
 
-$theme-blue: #99D9DD;
-$gray-100: #ebebeb;
-$white:    #fff; 
-$secondary:     $gray-100; 
-$link-color: $theme-blue;
+$blue-custom: #99D9DD;
+$link-color: $blue-custom;
 
 /*-- scss:rules --*/
 
@@ -22,10 +19,6 @@ div.quarto-about-solana .about-entity .about-link {
   transition: all .35s ease;
 }
 
-.about-entity #title-block-header.quarto-title-block.default .quarto-title .title:hover {
-  color: $primary;
-  text-shadow: 0 0 10px $primary;
-}
 
 .navbar {
   text-transform: uppercase;
