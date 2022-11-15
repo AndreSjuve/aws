@@ -1,14 +1,17 @@
 ---
 title: "Research"
-page-layout: full
-title-block-banner: true
-listing:
-  contents: research
-  sort: "date desc"
-  type: default
-  categories: false
-  sort-ui: false
-  filter-ui: false
 ---
 
-# Test
+## Working papers
+---
+
+#### Are Sustainable Investors Fee Sensitive? 
+André Wattø Sjuve, (2022) [SSRN {{< fa book-open-reader >}}](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4187059)
+
+#### Forced to Be Active: Evidence From a Regulation Intervention 
+Petter Bjerksund, Trond Døskeland, André Wattø Sjuve and Andreas Ørpetveit, (2022) [SSRN {{< fa book-open-reader >}}](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3635718)
+
+#### Do Fees Matter? Investor's Sensitivity to Active Management Fees 
+Trond Døskeland, André Wattø Sjuve and Andreas Ørpetveit, (2022) [SSRN {{< fa book-open-reader >}}](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3857628)
+
+

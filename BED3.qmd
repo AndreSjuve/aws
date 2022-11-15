@@ -1,6 +1,5 @@
 ---
-title: "BED3"
+title: "BED3 - Investering og finans"
 ---
 
 
-Test
