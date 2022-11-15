@@ -1,0 +1,35 @@
+/*-- scss:defaults --*/
+
+$theme-blue: #99D9DD;
+$gray-100: #ebebeb;
+$white:    #fff; 
+$secondary:     $gray-100; 
+$body-color: $white;
+$link-color: $theme-blue;
+
+/*-- scss:rules --*/
+
+h1, h2, h3, h4, h5, h6 {
+  color: $body-color;
+}
+
+nav-footer-center {
+  min-height: unset;
+}
+
+div.quarto-about-solana .about-entity .about-link {
+  font-size: 1.5em;
+  border-style: none;
+  transition: all .35s ease;
+}
+
+.about-entity #title-block-header.quarto-title-block.default .quarto-title .title:hover {
+  color: $primary;
+  text-shadow: 0 0 10px $primary;
+}
+
+.navbar {
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  border-bottom: 1px solid #5a5b5a;
+}

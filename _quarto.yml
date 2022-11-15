@@ -1,31 +1,56 @@
 project:
   type: website
   output-dir: docs
+  preview: 
+    browser: true
 
 website:
-  title: "André Wattø Sjuve"
+  title: "AWS"
+  description: "Personal webpage by André Wattø Sjuve"
+  favicon: images/headshot.jpg
+  site-url: https://andresjuve.github.io/aws/
+  repo-url: https://github.com/AndreSjuve/aws
+  repo-actions: [edit, issue]
+  open-graph: true
   navbar:
     background: "#124559"
+    title: "AWS"
+    search: true
     left:
-      - href: index.qmd
-        text: Home
-      - research.qmd
+      - text: "{{< fa house-user >}} Home"
+        file: index.qmd
+      - text: "{{< fa chart-line >}} Research"
+        file: research.qmd
+      - text: "{{< fa users-line >}} BED3"
+        file: BED3.qmd
+    right:
+      - text: "{{< fa solid envelope >}}"
+        href: 'mailto:andre.sjuve@nhh.no'
+      - text: "{{< fa brands github >}}"
+        href: 'https://github.com/AndreSjuve/'
+  page-navigation: true
   page-footer: 
     background: "#124559"
-    left: "Copyright 2022, André Wattø Sjuve"
-    right: 
-      - icon: github
-        href: https://github.com/AndreSjuve/
-      - icon: envelope
-        href: mailto:andre.sjuve@nhh.no
+    center: "&copy; 2022 André Wattø Sjuve"
 
 format:
   html:
-    theme: 
-      dark:  superhero
-      light: lux
+    theme: [superhero, style_dark.scss]
+    lang: en
+    date-format: 'dddd[, the] D [of] MMMM, YYYY'
+    highlight-style: github-dark
+    code-copy: true
+    code-link: true
+    anchor-sections: true
+    email-obfuscation: javascript
+    link-external-newwindow: true
+    code-tools:
+      source: false
+      toggle: false
+      caption: none
     css: styles.css
-    toc: true
+    toc: false
+freeze: true
 
 
 

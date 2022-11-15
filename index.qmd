@@ -1,36 +1,55 @@
 ---
 title: "André Wattø Sjuve"
-subtitle: Assistant professor
-image: image/headshot.jpg
-about: 
-  template: trestles
-  image-shape: rounded
-  image-width: 15em
+subtitle: |
+  Assistant professor @NHH.
+image: images/headshot.jpg
+about:
+  id: edu-exp
+  template: solana
+  image-width: 13em
+  image-shape: round
   links:
-    - icon: journals
-      text: SSRN
-      href: https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=4172820
-    - icon: linkedin
-      text: LinkedIn
-      href: https://no.linkedin.com/in/andréwattøsjuve/
-    - icon: github
-      text: GitHub
-      href: https://github.com/AndreSjuve/
-    - icon: envelope
-      text: Email
-      href: mailto:andre.sjuve@nhh.no
+    - text: "{{< fa solid envelope >}}"
+      href: "mailto:andre.sjuve@nhh.no"
+      aria-label: "envelope logo for email"
+    - text: "SSRN"
+      href: "https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=4172820"
+      aria-label: "Logo linking to andresjuve SSRN account"
+    - text: "{{< fa brands linkedin >}}"
+      href: "https://no.linkedin.com/in/andréwattøsjuve/"
+      aria-label: "LinkedIn logo linking to andresjuve account"
+    - text: "{{< fa brands github >}}"
+      href: "https://github.com/AndreSjuve/"
+      aria-label: "GitHub logo linking to andresjuve account"
 ---
 
+::: {#edu-exp}
+:::
 
-Welcome! I am currently an assistant professor at the department of [Business and Management Science](https://www.nhh.no/en/departments/business-and-management-science/) at the Norwegian School of Economics (NHH), in Bergen, Norway. I am interested in asset management and household finance.
+Welcome! I am currently an assistant professor at the department of [Business and Management Science](https://www.nhh.no/en/departments/business-and-management-science/) at the Norwegian School of Economics (NHH). 
 
-### Education
-`r fontawesome::fa("graduation-cap", fill = "#6610f2", a11y = "sem")` Ph.D in Finance \| 2022 \| <p class="custom-subtitle2">Norwegian School of Economics (NHH)</p>
+Have a look at my complete [_{{< fa solid file-alt >}} curriculum vitae_](https://no.linkedin.com/in/andréwattøsjuve/).
 
-<div class="topbr">
+:::: {.grid}
 
-<p class="custom-subtitle">
+::: {.g-col-12 .g-col-md-8 style="text-align: left;"}
+### Education{#headercolor}
 
-`r fontawesome::fa("graduation-cap", fill = "#6610f2", a11y = "sem")` MSc Financial Economics with Research Distinction \| 2018 \| NHH
+- `r fontawesome::fa("graduation-cap", fill = "#6610f2", a11y = "sem")` **_Ph.D._ in Finance**, **2022**  
+  *Norwegian School of Economics, Norway*
 
-`r fontawesome::fa("graduation-cap", fill = "#6610f2", a11y = "sem")` BSc Economics and Administration \| 2016 \| NHH
+- `r fontawesome::fa("graduation-cap", fill = "#6610f2", a11y = "sem")` **_M.Sc._ in Finance with research distinction**, **2018**  
+  *Norwegian School of Economics, Norway*
+
+- `r fontawesome::fa("graduation-cap", fill = "#6610f2", a11y = "sem")` **_B.Sc._ in Economics and Business Administration**, **2016**  
+  *Norwegian School of Economics*
+:::
+
+::: {.g-col-12 .g-col-md-4 style="text-align: left;"}
+### Interests
+
+- Asset management
+- Household finance
+:::
+
+::::
