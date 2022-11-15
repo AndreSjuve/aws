@@ -4,13 +4,12 @@ $theme-blue: #99D9DD;
 $gray-100: #ebebeb;
 $white:    #fff; 
 $secondary:     $gray-100; 
-$body-color: $white;
 $link-color: $theme-blue;
 
 /*-- scss:rules --*/
 
 h1, h2, h3, h4, h5, h6 {
-  color: $body-color;
+  color: $white;
 }
 
 nav-footer-center {

@@ -35,7 +35,9 @@ website:
 
 format:
   html:
-    theme: [superhero, style_dark.scss]
+    theme: 
+      - superhero
+      - style_dark.scss
     lang: en
     date-format: 'dddd[, the] D [of] MMMM, YYYY'
     highlight-style: github-dark
