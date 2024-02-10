@@ -37,13 +37,13 @@ Have a look at my complete [_{{< fa solid file-alt >}} curriculum vitae_](https:
 ::: {.g-col-12 .g-col-md-8 style="text-align: left;"}
 ### Education{#headercolor}
 
-- `r fontawesome::fa("graduation-cap", fill = "#6610f2", a11y = "sem")` **_Ph.D._ in Finance**, **2023**  
+-  **_Ph.D._ in Finance**, **2023**  
   *Norwegian School of Economics, Norway*
 
-- `r fontawesome::fa("graduation-cap", fill = "#6610f2", a11y = "sem")` **_M.Sc._ in Finance with research distinction**, **2018**  
+-  **_M.Sc._ in Finance with research distinction**, **2018**  
   *Norwegian School of Economics, Norway*
 
-- `r fontawesome::fa("graduation-cap", fill = "#6610f2", a11y = "sem")` **_B.Sc._ in Economics and Business Administration**, **2016**  
+- **_B.Sc._ in Economics and Business Administration**, **2016**  
   *Norwegian School of Economics*
 :::
 
