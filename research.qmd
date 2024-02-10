@@ -7,11 +7,13 @@ title: "Research"
 
 #### Forced to Be Active: Evidence From a Regulation Intervention 
 Petter Bjerksund, Trond Døskeland, André Wattø Sjuve and Andreas Ørpetveit, (2022) [SSRN {{< fa book-open-reader >}}](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3635718)
-R&R Management Science
+
+*R&R Management Science*
 
 #### Do Fees Matter? Investor's Sensitivity to Active Management Fees 
 Trond Døskeland, André Wattø Sjuve and Andreas Ørpetveit, (2022) [SSRN {{< fa book-open-reader >}}](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3857628)
-R&R Journal of Empirical Finance
+
+*R&R Journal of Empirical Finance*
 
 #### Are Sustainable Investors Fee Sensitive? 
 Solo-authored, (2022) [SSRN {{< fa book-open-reader >}}](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4187059)
@@ -19,7 +21,7 @@ Solo-authored, (2022) [SSRN {{< fa book-open-reader >}}](https://papers.ssrn.com
 ## Work in progress
 ---
 
-####Two-Dimensional Activeness: Exploring the Interplay Between Active Ownership and Active Portfolio Management
+#### Two-Dimensional Activeness: Exploring the Interplay Between Active Ownership and Active Portfolio Management
 Trond Døskeland, Xuan Li, André Wattø Sjuve and Andreas Ørpetveit
 
 
