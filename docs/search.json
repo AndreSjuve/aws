@@ -4,13 +4,27 @@
     "href": "index.html",
     "title": "André Wattø Sjuve",
     "section": "",
-    "text": "SSRN\n  \n  \n     \n  \n  \n     \n  \n\n      \n\n    \n    \n  \n\n\nWelcome! I am currently an assistant professor at the department of Business and Management Science at the Norwegian School of Economics (NHH).\nHave a look at my complete  curriculum vitae.\n\nEducation\n\nGraduation Cap\nPh.D. in Finance, 2022Norwegian School of Economics, Norway\nGraduation Cap\nM.Sc. in Finance with research distinction, 2018Norwegian School of Economics, Norway\nGraduation Cap\nB.Sc. in Economics and Business Administration, 2016Norwegian School of Economics\nInterests\n\nAsset management\nHousehold finance"
+    "text": "SSRN\n  \n  \n     \n  \n  \n     \n  \n\n      \n\n    \n    \n  \n\n\nWelcome! I am currently an assistant professor at the department of Business and Management Science at the Norwegian School of Economics (NHH).\n\n\n\nEducation\n\nr fontawesome::fa(\"graduation-cap\", fill = \"#6610f2\", a11y = \"sem\") Ph.D. in Finance, 2023\nNorwegian School of Economics, Norway\nr fontawesome::fa(\"graduation-cap\", fill = \"#6610f2\", a11y = \"sem\") M.Sc. in Finance with research distinction, 2018\nNorwegian School of Economics, Norway\nr fontawesome::fa(\"graduation-cap\", fill = \"#6610f2\", a11y = \"sem\") B.Sc. in Economics and Business Administration, 2016\nNorwegian School of Economics\n\n\n\nInterests\n\nAsset management\nInvestments\nHousehold finance"
   },
   {
     "objectID": "research.html",
     "href": "research.html",
     "title": "Research",
     "section": "",
-    "text": "André Wattø Sjuve, (2022) SSRN \n\n\n\nPetter Bjerksund, Trond Døskeland, André Wattø Sjuve and Andreas Ørpetveit, (2022) SSRN \n\n\n\nTrond Døskeland, André Wattø Sjuve and Andreas Ørpetveit, (2022) SSRN"
+    "text": "Petter Bjerksund, Trond Døskeland, André Wattø Sjuve and Andreas Ørpetveit, (2022) SSRN  R&R Management Science\n\n\n\nTrond Døskeland, André Wattø Sjuve and Andreas Ørpetveit, (2022) SSRN  R&R Journal of Empirical Finance\n\n\n\nSolo-authored, (2022) SSRN"
+  },
+  {
+    "objectID": "research.html#working-papers",
+    "href": "research.html#working-papers",
+    "title": "Research",
+    "section": "",
+    "text": "Petter Bjerksund, Trond Døskeland, André Wattø Sjuve and Andreas Ørpetveit, (2022) SSRN  R&R Management Science\n\n\n\nTrond Døskeland, André Wattø Sjuve and Andreas Ørpetveit, (2022) SSRN  R&R Journal of Empirical Finance\n\n\n\nSolo-authored, (2022) SSRN"
+  },
+  {
+    "objectID": "research.html#work-in-progress",
+    "href": "research.html#work-in-progress",
+    "title": "Research",
+    "section": "Work in progress",
+    "text": "Work in progress\n\n####Two-Dimensional Activeness: Exploring the Interplay Between Active Ownership and Active Portfolio Management Trond Døskeland, Xuan Li, André Wattø Sjuve and Andreas Ørpetveit"
   }
 ]
