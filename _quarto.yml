@@ -21,8 +21,8 @@ website:
         file: index.qmd
       - text: "{{< fa chart-line >}} Research"
         file: research.qmd
-      - text: "{{< fa users-line >}} BED3"
-        file: BED3.qmd
+      #- text: "{{< fa users-line >}} BED3"
+      #  file: BED3.qmd
     right:
       - text: "{{< fa solid envelope >}}"
         href: 'mailto:andre.sjuve@nhh.no'
@@ -31,7 +31,7 @@ website:
   page-navigation: true
   page-footer: 
     background: "#124559"
-    center: "&copy; 2022 André Wattø Sjuve"
+    center: "&copy; 2024 André Wattø Sjuve"
 
 format:
   html:

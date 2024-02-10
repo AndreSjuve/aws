@@ -28,14 +28,16 @@ about:
 
 Welcome! I am currently an assistant professor at the department of [Business and Management Science](https://www.nhh.no/en/departments/business-and-management-science/) at the Norwegian School of Economics (NHH). 
 
+<!--
 Have a look at my complete [_{{< fa solid file-alt >}} curriculum vitae_](https://no.linkedin.com/in/andréwattøsjuve/).
+-->
 
 :::: {.grid}
 
 ::: {.g-col-12 .g-col-md-8 style="text-align: left;"}
 ### Education{#headercolor}
 
-- `r fontawesome::fa("graduation-cap", fill = "#6610f2", a11y = "sem")` **_Ph.D._ in Finance**, **2022**  
+- `r fontawesome::fa("graduation-cap", fill = "#6610f2", a11y = "sem")` **_Ph.D._ in Finance**, **2023**  
   *Norwegian School of Economics, Norway*
 
 - `r fontawesome::fa("graduation-cap", fill = "#6610f2", a11y = "sem")` **_M.Sc._ in Finance with research distinction**, **2018**  
@@ -49,6 +51,7 @@ Have a look at my complete [_{{< fa solid file-alt >}} curriculum vitae_](https:
 ### Interests
 
 - Asset management
+- Investments
 - Household finance
 :::
 
